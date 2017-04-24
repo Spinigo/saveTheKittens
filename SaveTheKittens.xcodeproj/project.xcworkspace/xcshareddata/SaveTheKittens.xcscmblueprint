@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0225A227BC7311F79EACE16CA3C4B6730E825CA8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0225A227BC7311F79EACE16CA3C4B6730E825CA8" : 9223372036854775807,
+    "13B313E4227965050863A50D3E7B8F75C3220808" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9757889D-C1C2-477A-96D7-E3A70BDD55AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0225A227BC7311F79EACE16CA3C4B6730E825CA8" : "SaveTheKittens\/",
+    "13B313E4227965050863A50D3E7B8F75C3220808" : "SaveTheKittens\/SaveTheKittens\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SaveTheKittens",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SaveTheKittens.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Spinigo\/saveTheKittens.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0225A227BC7311F79EACE16CA3C4B6730E825CA8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Spinigo\/saveTheKittens.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13B313E4227965050863A50D3E7B8F75C3220808"
+    }
+  ]
+}
